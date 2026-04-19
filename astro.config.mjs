@@ -27,7 +27,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 // https://astro.build/config
 export default defineConfig({
 	site: "https://altf4lol.github.io/",
-	base: "/",
+	base: "/fuwari",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
