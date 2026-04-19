@@ -1,13 +1,12 @@
 ---
-title: Draft Example
+title: Hey there.
 published: 2025-04-19
 tags: [Blogging]
 category: Stuff
 draft: false
 ---
-Selama sekian lama mengotak atik pemograman, akhirnya saya memutuskan untuk mencoba pemograman website.
+Hey its my first post !
 
-N yeah thats all.
-
-
-:::note More stuff to come. :::
+:::important
+Where'd you come from?
+:::
