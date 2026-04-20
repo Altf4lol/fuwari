@@ -1,5 +1,5 @@
 ---
-title: An Advanced Watch from 2007
+title: Futuristic Watch From 2007
 published: 2025-04-20
 tags: [Blogging]
 category: Stuff
