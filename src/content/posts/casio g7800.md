@@ -20,6 +20,6 @@ Let me introduce you to this watch, its a watch released by Casio in 2007 and it
 
 The display in this watch can not only display numbers, it is also capable of displaying symbols and silhouette!
 
-:::tip
+:::note[Dot Matrix?]
 Dot Matrix is a grid type of display and is usually called pixels. These type of display are used for various device, such as in calculators or LCD used for Arduino project.
 :::
