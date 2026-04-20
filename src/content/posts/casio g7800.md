@@ -1,7 +1,7 @@
 ---
 title: Futuristic Watch From 2007
 published: 2025-04-20
-tags: [Blogging]
+tags: [Tech]
 category: Stuff
 draft: false
 ---
