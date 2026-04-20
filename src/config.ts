@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Yeet",
+	title: "Home",
 	subtitle: "Magust",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -20,8 +20,8 @@ export const siteConfig: SiteConfig = {
 		src: "assets/images/rainy.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: false, // Display the credit text of the banner image
-			text: "", // Credit text to be displayed
+			enable: true, // Display the credit text of the banner image
+			text: "Growtopia", // Credit text to be displayed
 			url: "", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
@@ -31,11 +31,11 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// }
+		{
+		   src: '/favicon/mg_icon.webp',    // Path of the favicon, relative to the /public directory
+		  // theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+		   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+		 }
 	],
 };
 
@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/initd.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Magust",
-	bio: "Thou shall not lie",
+	bio: "Thou shall not lie\nThou shalt not commit adultery\nThou shalt not steal",
 	links: [
 		{
 			name: "",
