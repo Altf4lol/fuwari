@@ -1,95 +1,25 @@
 ---
-title: Markdown Extended Features
-published: 2024-05-01
-updated: 2024-11-29
-description: 'Read more about Markdown features in Fuwari'
-image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
-draft: true 
+title: An Advanced Watch from 2007
+published: 2025-04-20
+tags: [Blogging]
+category: Stuff
+draft: false
 ---
+![G-Shocks !](https://www.g-central.com/wp-content/uploads/2019/06/casio-japan-catalog-2019-vol-1-700x493.jpg)
+Lets take a look at digital watches that are currently popular among us
 
-## GitHub Repository Cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+One thing about them is they're boring and most of them are lacking of useful features !
 
-::github{repo="Fabrizz/MMM-OnSpotify"}
+They have a big screen yet they still have a standard 7 Segment LCD screen. They can only display numbers !
 
-Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
+what if i tell you that Casio released a very futuristic watch that are discontinued today... its called "G-Shock G7800" series.
 
-```markdown
-::github{repo="saicaca/fuwari"}
-```
+<img src="https://external-preview.redd.it/wts-casio-g-shock-g7800-1-positive-display-multiple-fonts-v0-cupJn8GKvLTG1JhyLA2qcU4H4ohkn-lj9SalWY9shtk.jpg?width=1080&crop=smart&auto=webp&s=b45ef567587165befeadcba461e0a07eaade0f64" alt="G7800" width="300" height="200">
 
-## Admonitions
+Let me introduce you to this watch, its a watch released by Casio in 2007 and it has lots of feature that still holds up to this day, it features a high resolution pixel screen called "Dot Matrix". It is also the only Casio watch that features FSTN LCD
 
-Following types of admonitions are supported: `note` `tip` `important` `warning` `caution`
+The display in this watch can not only display numbers, it is also capable of displaying symbols and silhouette!
 
-:::note
-Highlights information that users should take into account, even when skimming.
+:::[Dot Matrix?]
+Dot Matrix is a grid type of display and commonly known as pixels. These type of display are used for various device, such as in calculators or LCD used for Arduino project.
 :::
-
-:::tip
-Optional information to help a user be more successful.
-:::
-
-:::important
-Crucial information necessary for users to succeed.
-:::
-
-:::warning
-Critical content demanding immediate user attention due to potential risks.
-:::
-
-:::caution
-Negative potential consequences of an action.
-:::
-
-### Basic Syntax
-
-```markdown
-:::note
-Highlights information that users should take into account, even when skimming.
-:::
-
-:::tip
-Optional information to help a user be more successful.
-:::
-```
-
-### Custom Titles
-
-The title of the admonition can be customized.
-
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
-:::
-
-```markdown
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
-:::
-```
-
-### GitHub Syntax
-
-> [!TIP]
-> [The GitHub syntax](https://github.com/orgs/community/discussions/16925) is also supported.
-
-```
-> [!NOTE]
-> The GitHub syntax is also supported.
-
-> [!TIP]
-> The GitHub syntax is also supported.
-```
-
-### Spoiler
-
-You can add spoilers to your text. The text also supports **Markdown** syntax.
-
-The content :spoiler[is hidden **ayyy**]!
-
-```markdown
-The content :spoiler[is hidden **ayyy**]!
-
-```
