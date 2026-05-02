@@ -20,6 +20,7 @@ This paste takes 15-20 Minutes to dry.
 The nice thing about this paste is it dries nicely in glass!
 
 <img src="https://media.discordapp.net/attachments/763668090592428052/1500112915091423334/IMG_0684.jpg?ex=69f74085&is=69f5ef05&hm=f1a8990e1e7441aeab9cb948145935153bd4d8f1c703cff865b6fe3175a2d914&=&format=webp&width=1092&height=849" alt="Applied" width="300" height="200">
+
 :::tip
 If you want to do this repair in watches, make sure you have a microscope and a sharp blade as the ITO lines you're trying to fix in the LCD can be very small.
 :::
