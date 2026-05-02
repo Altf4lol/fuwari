@@ -4,6 +4,7 @@ published: 2025-05-02
 tags: [Tech, Watch, Casio]
 category: Gibberish
 draft: false
+---
 Indium Tin Oxide (ITO) is a conductive layer that are mostly used in a glass, that means ITO can be found in digital watches and scientific calculator that you are using right now.
 
 Unulike other conductive materials used in electronics, ITO is transparent and isn't made out of copper nor silver/gold.
@@ -23,6 +24,10 @@ This paste takes 15-20 Minutes to dry.
 The nice thing about this paste is it dries nicely in glass!
 
 ![My Work](https://media.discordapp.net/attachments/763668090592428052/1500112915091423334/IMG_0684.jpg?ex=69f74085&is=69f5ef05&hm=f1a8990e1e7441aeab9cb948145935153bd4d8f1c703cff865b6fe3175a2d914&=&format=webp&width=1092&height=849)
+
+:::tip
+If you want to do this repair in watches, make sure you have a microscope and a sharp blade as the ITO lines in LCD can be very small.
+:::
 
 Applied this material to replace the ITO connections in my broken watch once and it works great! 🥳🥳
 
