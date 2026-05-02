@@ -5,7 +5,7 @@ tags: [Tech, Watch, Casio]
 category: Stuff
 draft: false
 ---
-Lets take a look at digital watches that are currently popular among us
+Lets take a look at digital watches that are currently used widely:
 
 ![Watches_](https://www.g-central.com/wp-content/uploads/2019/06/casio-japan-catalog-2019-vol-1-700x493.jpg)
 

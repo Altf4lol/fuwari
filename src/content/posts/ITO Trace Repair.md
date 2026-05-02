@@ -1,6 +1,6 @@
 ---
 title: Fixing A Broken ITO Trace
-published: 2025-05-2
+published: 2025-05-02
 tags: [Tech, Watch, Casio]
 category: Gibberish
 draft: false
