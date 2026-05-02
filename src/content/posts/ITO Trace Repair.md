@@ -14,7 +14,7 @@ So what do you do when it degrades or break?
 Grab a strain of a jumper wire? nope.
 We will have to use this paste :
 <img src="https://down-my.img.susercontent.com/file/sg-11134201-7rcbz-ltwl527ueg2r8a" alt="Conductive Paste" width="400" height="300">
-This is called _Conductive Paste_. 
+This is called _Conductive Paste_
 It is widely used in PCB and in D.I.Y (Do it yourself) project. 
 Just like its name, it is a conductive liquid paint that you can apply anywhere!
 
