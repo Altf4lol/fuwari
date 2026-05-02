@@ -55,14 +55,14 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/initd.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Magust",
-	bio: "Thou shall not lie",
+	bio: "Thou shalt not lie",
 	links: [
 		{
 			name: "",
 			icon: "fa6-brands:square-youtube", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://www.youtube.com/@magust3747",
+			url: "https://www.youtube.com/@magustz",
 		},
 		/*
 		{

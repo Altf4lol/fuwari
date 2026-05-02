@@ -12,8 +12,8 @@ Bad thing about ITO is it can only be made with a factory grade machine, so its 
 
 So what do you do when it degrades or break? Grab a strain of a jumper wire? nope.
 We have to use this paste :
-<img src="https://down-my.img.susercontent.com/file/sg-11134201-7rcbz-ltwl527ueg2r8a" alt="Conductive Paste" width="300" height="200">
-Its called _Conductive Paste_ it is widely used in PCB and in D.I.Y (Do it yourself) project. just like its name, it is a conductive liquid paint that you can apply anywhere!
+<img src="https://down-my.img.susercontent.com/file/sg-11134201-7rcbz-ltwl527ueg2r8a" alt="Conductive Paste" width="400" height="300">
+This is called _Conductive Paste_ it is widely used in PCB and in D.I.Y (Do it yourself) project. just like its name, it is a conductive liquid paint that you can apply anywhere!
 
 This paste takes 15-20 Minutes to dry.
 
