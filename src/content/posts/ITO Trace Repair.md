@@ -7,13 +7,13 @@ draft: false
 ---
 Indium Tin Oxide (ITO) is a conductive layer that are mostly used in a glass, that means ITO can be found in digital watches and scientific calculator that you are using right now.
 
-Unulike other conductive materials used in electronics, ITO is transparent and isn't made out of copper nor silver/gold.
-Bad thing about ITO is it can only be made with a factory grade machine. 
+Unlike other conductive materials used in electronics, ITO is transparent and isn't made out of copper nor silver/gold.
+Bad thing about ITO is it can only be made with a factory grade machine, so its kinda unfixable for us.
 
 So what do you do when it degrades or break? Grab a strain of a jumper wire? NO!
 We have to use this paste :
 <img src="https://down-my.img.susercontent.com/file/sg-11134201-7rcbz-ltwl527ueg2r8a" alt="Conductive Paste" width="300" height="200">
-Its called "Conductive Paste" it is widely used in PCB and in D.I.Y (Do it yourself) project. just like its name, it is a conductive liquid paint that you can apply anywhere!
+Its called __"Conductive Paste"__ it is widely used in PCB and in D.I.Y (Do it yourself) project. just like its name, it is a conductive liquid paint that you can apply anywhere!
 
 This paste takes 15-20 Minutes to dry.
 
