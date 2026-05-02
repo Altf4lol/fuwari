@@ -5,8 +5,9 @@ tags: [Tech, Watch, Casio]
 category: Stuff
 draft: false
 ---
-![Watches_](https://www.g-central.com/wp-content/uploads/2019/06/casio-japan-catalog-2019-vol-1-700x493.jpg)
 Lets take a look at digital watches that are currently popular among us
+
+![Watches_](https://www.g-central.com/wp-content/uploads/2019/06/casio-japan-catalog-2019-vol-1-700x493.jpg)
 
 One thing about them is they're boring and most of them are lacking of useful features ! (Well, except the one that are colorful (non monochrome) and is featuring the advanced *MIP display* of course)
 
