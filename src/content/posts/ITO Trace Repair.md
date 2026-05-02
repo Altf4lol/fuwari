@@ -1,8 +1,8 @@
 ---
 title: Fixing A Broken ITO Trace
 published: 2025-05-02
-tags: [Tech, Watch, Casio]
-category: Gibberish
+tags: [Microsoldering, Watches, casio]
+category: Guide
 draft: false
 ---
 Indium Tin Oxide (ITO) is a conductive layer that are mostly used in a glass, that means ITO can be found in digital watches and scientific calculator that you are using right now.
@@ -13,7 +13,7 @@ Bad thing about ITO is it can only be made with a factory grade machine.
 
 So what do you do when it degrades or break? Grab a strain of a jumper wire? NO!
 
-We have tp use this paste :
+We have to use this paste :
 
 ![Conductive Paste](https://down-my.img.susercontent.com/file/sg-11134201-7rcbz-ltwl527ueg2r8a)
 

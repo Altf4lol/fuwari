@@ -1,7 +1,7 @@
 ---
 title: Futuristic Watch From 2007
 published: 2025-04-20
-tags: [Tech, Watch, Casio]
+tags: [Tech, Watches, Casio]
 category: Stuff
 draft: false
 ---
