@@ -12,6 +12,7 @@ Lets say the manufacturer decided to configure the power draw like this:
 - 1920Mhz GPU Clock -> 75 Watt usages
 
 That 75 Watt is about 13% higher than what your GPU actually need in order to achieve 1920Mhz !
+
 That means you can actually achieve 1920Mhz of GPU Clock without having to use that much of a juice. Give it 65 Watt and boom you will still get the same clock speed.
 
 This practice is called **Undervolting**``** and is done by lowering the GPU Voltage.
