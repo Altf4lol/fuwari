@@ -22,6 +22,8 @@ Undervolting is one way to reduce the power draw in your laptop thus making it r
 
 One of most popular Software that you can use for undervolting purpose is MSI Afterburner.
 
+Here's my result on Undervolting a RTX 3050 Mobile GPU:
+
 <img src="https://i.imgur.com/ZK8O43u.png" alt="Before After" width="691" height="140">
 
 Voila ~90Mhz Higher and most importantly, ~10 Watts lower !
