@@ -1,10 +1,9 @@
 ---
 title: Save 10 Watts of juice in your GPU !
-published: 2023-10-01
-description: A simple example of a Markdown blog post.
+published: 2026-08-06
 tags: [gpu, power]
 category: pc
-draft: true
+draft: false
 ---
 
 Did you know the configuration that comes by default in your GPU driver can be altered to increase the efficiency of your GPU processing power?
@@ -17,7 +16,7 @@ That means you can actually achieve 1920Mhz of GPU Clock without having to use t
 
 This practice is called **Undervolting**``** and is done by lowering the GPU Voltage.
 
-:::info
+:::Info
 Undervolting is one way to reduce the power draw in your laptop thus making it run cooler. Increasing your laptop's lifespan.
 :::
 
